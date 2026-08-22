@@ -15,4 +15,4 @@ Proyecto incremental de la asignatura Desarrollo FullStack II.
 
 -https://www.xataka.com/fotografia-y-video/nikon-d7000-una-camara-con-la-que-sonaras
 
-- https://msmk.university/analisis-en-programacion/
+- https://msmk.university/analisis-en-programacion/ ..
